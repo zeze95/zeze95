@@ -8,7 +8,7 @@ welcome to my github
 
 
 
-- 🌱 I'm studying the frontend develop
+- 🌱 studying frontend develop
 - 📄 My blog https://velog.io/@zeze95
 
 
