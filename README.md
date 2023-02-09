@@ -3,10 +3,6 @@
 welcome to my github
 
 
-안녕하세요!
-프론트엔드 개발자를 목표로 하는 김은재입니다!
-
-
 
 - 🌱 studying frontend develop
 - 📄 My blog https://velog.io/@zeze95
