@@ -4,10 +4,6 @@ welcome to my github
 
 
 
-- 🌱 studying frontend develop
-- 📄 My blog https://velog.io/@zeze95
-
-
 ## use stack
 <div>
   
