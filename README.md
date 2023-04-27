@@ -15,6 +15,7 @@ welcome to my github
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/graphQL-E10098?style=flat&logo=graphQL&logoColor=white">
+<img src="https://img.shields.io/badge/axios-000000?style=flat&logo=axios&logoColor=white">
 
 </div>
 
